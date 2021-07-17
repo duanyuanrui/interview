@@ -1,0 +1,14 @@
+http://www.baidu.com 200 345
+http://www.baidu.com 100 345
+http://www.baidu.com 301 345
+http://www.baidu.com 302 345
+http://www.baidu.com 400 345
+http://www.baidu.com 404 345
+http://www.baidu.com 409 345
+http://www.baidu.com 500 345
+http://www.baidu.com 502 345
+http://www.baidu.com 504 345
+http://www.baidu.com 505 345
+http://www.baidu.com 200 900
+http://www.baidu.com 200 90
+http://www.baidu.com 200 78
