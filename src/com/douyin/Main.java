@@ -1,6 +1,7 @@
 package com.douyin;
 
 import com.douyin.arrays.ArrayMakeUpMaxNum;
+import com.douyin.arrays.TwoDimensionalArray;
 import com.douyin.linklist.Node;
 import com.douyin.linklist.SingleList;
 import com.douyin.other.JinZhi;
@@ -15,6 +16,9 @@ import java.util.Arrays;
 public class Main {
 
     public static void main(String[] args) {
+        //TwoDimensionalArray
+        TwoDimensionalArray twoDimensionalArray = new TwoDimensionalArray();
+        twoDimensionalArray.fun();
         //maopao
         MaoPao maoPao = new MaoPao();
         maoPao.fun();

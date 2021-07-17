@@ -17,17 +17,13 @@ public class MergeArray {
             }
         }
         System.out.println(result[k]);
-
-
         //数组不一样长短
         while(i<a.length){
             result[k++] = a[i++];
         }
-
         while (j<b.length){
             result[k++] = b[j++];
         }
-
         for (k = 0; k<result.length;k++){
             System.out.println(result[k]);
         }
